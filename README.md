@@ -3,7 +3,11 @@
 A Python-based tool to detect fetal morphologic patterns using machine learning. This tool is a concept tool to assist researchers and medical professionals.
 ![image](https://github.com/user-attachments/assets/ab4edd1b-4ae3-468a-9c82-9c09a9c3d3c7)
 
-
+## KEY CONCEPTS AND MODULES USED
+- naive_bayes (Scikit)
+- CSV cleaning and loading (Pandas)
+- visualisation of data (Matplotlib, Seaborn)
+- styling (Colorama)
 ---
 
 ## Requirements
